@@ -1,0 +1,7 @@
+Q. Why java is so secure language?
+Ans-Java is secure language due to the presence of JRE(Java Runtime Environment) where the java's bytecode execute.
+JRE is an environment where the java's byte code execute.
+JVM is the machine that execute the java's byte code.
+JIT(Just-In Time) is an interpreter used by JVM to interpret java's byte code to native code (machine code)that gives output.
+JAVAC is the compiler that compiles the source code and generates byte code.
+JDK is the kit which contains the JRE,JVM,JAVAC.
