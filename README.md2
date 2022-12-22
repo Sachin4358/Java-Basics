@@ -1,0 +1,15 @@
+#Operator Token-
+Operation is a symbol that is used to do operation on a data.
+public class test2 {
+
+	public static void main(String ...If) {
+		int a= 10 , b=20;
+		int r= a*b/2+8*a;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(r);
+		
+		
+	}
+}
+Note- '=','+','*' etc are the operator which perform operation on the data.
