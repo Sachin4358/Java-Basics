@@ -1,0 +1,23 @@
+Printing function in java
+printf-print with format specifier
+format-print with format specifier(Same as printf)
+print-print without format specifier
+println-print with new line and wihtout format specifier.
+
+
+
+Format specifier in java
+%d,%o,%x,%X-Integer
+%f-Floating point
+%e,%E-Exponential(Scientific Notation)
+%s,%S-String
+%c,%C-Character
+%b,%B-Boolean
+%n-New line
+
+
+// Scanning data from the input
+java.util.Scanner sc= new java.util.Scanner(System.in);
+itn age= sc.nextInt();
+double height= sc.nextDouble();
+String name=sc.next();
