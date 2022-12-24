@@ -21,3 +21,9 @@ Note-All the word in the comment is a Keyword TOKEN
 Note-There are 50 keywords in Java
 The goto and const keywords are not use.
 true, false,null are the reserved words not keyword.
+#Gapping rule of Tokens-
+Int betwenn the 
+Keyword and keyword
+identifier and identifier
+identifier and keyword
+keyword and identifier
