@@ -1,0 +1,21 @@
+#Separator-It is a symbol that is used to do separation in code.
+public class Test{
+   public static void main(String ... s){
+      System.out.prinln("Sachin");
+      int num1=10, num2=20;
+      int result= num1+num2;
+      System.out.println(result);
+      Ex-{
+         .
+         []
+         ( )
+
+
+List os Separators
+()-Round Bracket
+{}-Culy Bracket
+[]-Square Bracket
+;-Semicolon
+@-At
+:-Colon
+::-Double colon
