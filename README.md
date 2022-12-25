@@ -1,29 +1,16 @@
-TOKENS
-Every individual units in the program is callled TOKEN
-Types of TOKENS:-
-1.Keywords
-2.Identifiers
-3.Operators
-4.Separators
-5.Literals
+Programming language(PL)
+Pl is an artificial language used to communicate wtih computers(Machines).
+Pl is used to build software.
+Source code or Program->Translator->machine code->Computer
 
-Keyword Token-A word created by language for particular job that can not be changed by programmer is a keyword.
-Program to understand Keyword Token:-
-public class Test{   //(Public ,class)
-public static void main(String [] args){  //(Public ,static, void ,main)
-System.out.println("Hello Sachin");
-int num=10, num=20;     //(int)
-int result= num1+num2; //(int)
-   }
-}
-System.out.println("Sum:"+result);
-Note-All the word in the comment is a Keyword TOKEN
-Note-There are 50 keywords in Java
-The goto and const keywords are not use.
-true, false,null are the reserved words not keyword.
-#Gapping rule of Tokens-
-Int betwenn the 
-Keyword and keyword
-identifier and identifier
-identifier and keyword
-keyword and identifier
+
+JAVA Introduction and Histroy
+   Created by James Gosling(Dr.Java)
+   Initiated in June 1991 and First version  came in 1995.
+   Developed by Sun Microsystems.
+   Best suited for:Security and Platform independent.
+   First name:Oak
+   Second name:Green
+   Final name:Java
+   Syntax came from :c and c++
+ Oracle corporation acquire Sun Microsystems in 2010.
