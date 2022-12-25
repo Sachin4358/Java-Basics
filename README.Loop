@@ -1,0 +1,7 @@
+Loop is used to execute a block of code for multiple times.
+Write the codes once and execute it many times.
+Types of Loop
+1.for
+2.while
+3.do while
+4.for-each(enchanced for)
