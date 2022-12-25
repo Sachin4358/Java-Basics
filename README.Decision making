@@ -1,0 +1,8 @@
+Decision making is execute a block of code on condition, if the condition is satisfied then code will execute otherwise not.
+Types of Decision making:-
+1.if
+2.if else
+3.if else if
+4.switch
+Note:-Switch work with the byte,short char and String, class, and new wrapper class Byte, Short, Character and Integer.
+switch does not work with float, double and long
